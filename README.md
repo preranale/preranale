@@ -1,7 +1,3 @@
-# Complete GitHub Profile - Better Fonts & Colors
-## Copy everything below for your README.md
-
-```markdown
 <div align="center">
 
 # 👩‍💻 Full-Stack Software Engineer
@@ -516,7 +512,6 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 <br>
 
 # ⚡ Fun Fact
-
 ```python
 while True:
     if coffee_level > 0:
@@ -546,4 +541,3 @@ while True:
 Made with ❤️ and lots of ☕ by **Prerana Nale**
 
 </div>
-```
