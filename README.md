@@ -284,11 +284,9 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 </div>
 
 ---
-
+````markdown
 ## ⚡ Fun Fact
 
-<div align="center">
-````markdown
 
 ```python
 while True:
@@ -301,6 +299,8 @@ while True:
 ```
 
 </div>
+````
+
 
 ---
 
