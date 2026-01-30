@@ -1,35 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Prerana+Nale+%F0%9F%91%8B;Full-Stack+Software+Engineer;AWS+%7C+React+%7C+Python+%7C+Java;Building+Accessible+%26+Scalable+Applications" alt="Typing SVG" />
+
+# Full-Stack Software Engineer
+
+👩‍💻 **Full-Stack Developer | Cloud Enthusiast | MS @ ASU** 👩‍💻
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-nale)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naleprerana11@gmail.com)
+[![ASU Email](https://img.shields.io/badge/ASU_Email-8C1D40?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnale@asu.edu)
+
+![Profile Views](https://komarev.com/ghpvc/?username=preranale&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 </div>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-  Full-Stack Developer | Cloud Enthusiast | MS @ ASU
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/prerana-nale">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:naleprerana11@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/preranale">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preranale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
 
 ---
 
-## 👨‍💻 About Me
-```typescript
+## 🧑‍💻 About Me
+```javascript
 const prerana = {
     location: "Phoenix, Arizona 🌵",
     education: "MS in Software Engineering @ ASU (GPA: 4.00/4.00)",
@@ -37,11 +23,11 @@ const prerana = {
     previousRole: "Full-Stack Developer @ 4 Systems Info Solutions",
     interests: ["Web Accessibility", "Cloud Architecture", "Full-Stack Development"],
     funFact: "I teach 150+ students Java while building accessible web apps! 🎓",
-    currentlyLearning: ["Kubernetes", "System Design", "Advanced AWS"],
     lookingFor: "Summer 2026 Software Engineering Internship",
     
     code: ["Python", "JavaScript", "TypeScript", "Java", "SQL"],
     askMeAbout: ["Web Development", "Cloud Computing", "Accessibility", "DevOps"],
+    
     technologies: {
         frontEnd: {
             frameworks: ["React", "Redux Toolkit", "Next.js"],
@@ -64,9 +50,11 @@ const prerana = {
             cicd: ["GitHub Actions", "Jenkins"],
             iac: ["Terraform", "CloudFormation"]
         },
-        tools: ["Git", "VS Code", "Postman", "Figma", "Jira"]
+        tools: ["Git", "VS Code", "Postman", "Jira"]
     },
+    
     architecture: ["Microservices", "Event-Driven", "RESTful APIs", "Serverless"],
+    
     achievements: {
         accessibility: "95/100 score (Top 2% globally) 🏆",
         performance: "75% improvement in data processing ⚡",
@@ -82,36 +70,43 @@ const prerana = {
 
 <div align="center">
 
-### 🎨 [Orange Sulphur - Accessible E-Commerce Platform](https://orange-sulphure.netlify.app/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Success-brightgreen?style=for-the-badge&logo=netlify)](https://orange-sulphure.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/preranale)
+### 🍊 [Orange Sulphur - Accessible E-Commerce Platform](https://orange-sulphure.netlify.app/)
+
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-success-brightgreen?style=for-the-badge&logo=netlify)](https://orange-sulphure.netlify.app/)
+[![Success](https://img.shields.io/badge/SUCCESS-95%2F100-brightgreen?style=for-the-badge)](https://orange-sulphure.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/preranale)
 
 **Production e-commerce platform achieving 95/100 accessibility score (top 2% globally)**
 
 `React` `TypeScript` `Redux Toolkit` `Tailwind CSS` `Web Speech API` `WCAG 2.1`
 
 - 🎤 Voice commands for hands-free shopping
-- 👁️ Screen reader optimization (ARIA compliant)
+- 👁️ Screen reader optimization (ARIA compliant)  
 - 🎨 Colorblind modes (Protanopia, Deuteranopia, Tritanopia)
 - ♿ Full WCAG 2.1 AA compliance
 
 ---
 
 ### 🔒 Secure Deployment Pipeline for LLM Agents
+
+[![Published](https://img.shields.io/badge/RESEARCH-Published-blue?style=for-the-badge)](https://github.com/preranale)
 [![AWS](https://img.shields.io/badge/AWS-Deployed-FF9900?style=for-the-badge&logo=amazon-aws)](https://github.com/preranale)
 
-**Enterprise-grade CI/CD pipeline with automated security testing**
+**Enterprise-grade MLSecOps framework with automated security testing**
 
-`AWS` `Python` `Docker` `Terraform` `GitHub Actions`
+`AWS ECS` `Python` `Docker` `Terraform` `FastAPI` `GitHub Actions`
 
-- 🛡️ IAM policies, KMS encryption, Secrets Manager
-- 🔍 SAST tools & dependency scanning (>95% resolution rate)
-- ☁️ Infrastructure-as-Code with Terraform
-- 📊 CloudWatch monitoring & alerting
+- 🛡️ Zero secret leakage across 342 production queries
+- ⚡ Sub-250ms API latency with 8.5% pipeline overhead
+- 🔍 >95% vulnerability resolution rate with automated SAST
+- 📊 Statistical validation (p < 0.01) proving production readiness
+
+**Co-authored Research Paper** (CSE 543, Nov 2025)
 
 ---
 
 ### ⚙️ Cloud Infrastructure Automation & SRE Tools
+
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)](https://github.com/preranale)
 
 **Multi-cloud infrastructure automation toolkit**
@@ -169,10 +164,8 @@ const prerana = {
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
@@ -187,23 +180,15 @@ const prerana = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranale&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preranale&theme=radical&utcOffset=8" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preranale&theme=radical&utcOffset=-7" alt="Productive Time" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Prerana's Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preranale&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preranale&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preranale&theme=react-dark&hide_border=true&area=true" alt="Prerana's Contribution Graph" />
 </div>
 
 ---
@@ -215,31 +200,90 @@ const prerana = {
 | 🎯 Metric | 📊 Achievement |
 |-----------|---------------|
 | 💻 **Code Quality** | 90%+ Test Coverage |
-| ⚡ **Performance** | 75% Processing Time Improvement |
-| 🚀 **Deployment** | 60% Faster CI/CD Pipeline |
+| ⚡ **Performance** | 75% Processing Improvement |
+| 🚀 **Deployment** | 60% Faster CI/CD |
 | ♿ **Accessibility** | 95/100 Score (Top 2%) |
 | 👥 **Teaching** | 150+ Students Mentored |
 | 🏆 **GPA** | 4.00/4.00 @ ASU |
+| 📄 **Research** | Published Paper (CSE 543) |
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 <div align="center">
 
-### 🎓 Arizona State University
-**Master of Science in Software Engineering** | GPA: 4.00/4.00 | Expected May 2026
+**🎓 Arizona State University**  
+Master of Science in Software Engineering | **GPA: 4.00/4.00** | Expected May 2026
 
-**Relevant Coursework:**
-- Advanced Web Development
-- Data Structures & Algorithms
-- Software Design Patterns
-- Cloud Computing
-- Database Systems
+**Relevant Coursework:** Advanced Web Development • Data Structures & Algorithms • Software Design Patterns • Cloud Computing • Information Assurance & Security
 
 </div>
+
+---
+
+## 📝 Recent Research
+
+<div align="center">
+
+### 📄 Secure Deployment Pipeline for LLM-based Agents (CI/CD)
+**CSE 543: Information Assurance and Security** | November 2025
+
+Co-authored comprehensive research on MLSecOps framework for secure LLM deployment
+- ✅ Zero secret leakage validation
+- ✅ Sub-250ms API latency
+- ✅ Statistical significance (p < 0.01)
+- ✅ Production-ready architecture
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🎤 Building Accessible Web Apps: Voice Commands with Web Speech API
+- ☁️ Deploying Microservices on AWS EKS: A Complete Guide
+- 🔒 Securing Your CI/CD Pipeline: Best Practices & Tools
+- ⚡ Performance Optimization: From 8 Hours to 2 Hours
+- 🧪 Achieving 90%+ Test Coverage: A Practical Approach
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+### Let's build something amazing together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-nale)
+[![Gmail](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naleprerana11@gmail.com)
+[![ASU Email](https://img.shields.io/badge/ASU_EMAIL-8C1D40?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnale@asu.edu)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preranale)
+
+### 💬 Open to
+
+- 💼 **Software Engineering Internship Opportunities** (Summer 2026)
+- 🤝 **Collaboration on Open Source Projects**
+- 💡 **Interesting Technical Discussions**
+- 🎓 **Mentoring & Knowledge Sharing**
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Complete MS in Software Engineering (GPA: 4.00)
+- 🎯 Land Software Engineering Internship at Top Tech Company
+- 🎯 Contribute to 5+ Open Source Projects
+- 🎯 Build 3 Production-Grade Full-Stack Applications
+- 🎯 Master Kubernetes & System Design
+- 🎯 Achieve AWS Solutions Architect Certification
+- 🎯 Publish Technical Blog Posts (10+)
 
 ---
 
@@ -271,73 +315,29 @@ mindmap
 
 ---
 
-## 🎯 2026 Goals
-
-- ✅ Complete MS in Software Engineering (GPA: 4.00)
-- 🎯 Land Software Engineering Internship at Top Tech Company
-- 🎯 Contribute to 5+ Open Source Projects
-- 🎯 Build 3 Production-Grade Full-Stack Applications
-- 🎯 Master Kubernetes & System Design
-- 🎯 Achieve AWS Solutions Architect Certification
-- 🎯 Publish Technical Blog Posts (10+)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🎤 Building Accessible Web Apps: Voice Commands with Web Speech API
-- ☁️ Deploying Microservices on AWS EKS: A Complete Guide
-- 🔒 Securing Your CI/CD Pipeline: Best Practices & Tools
-- ⚡ Performance Optimization: From 8 Hours to 2 Hours
-- 🧪 Achieving 90%+ Test Coverage: A Practical Approach
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Connect With Me
+## 💭 Random Dev Quote
 
 <div align="center">
 
-### Let's build something amazing together! 🚀
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prerana-nale)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naleprerana11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://orange-sulphure.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preranale)
-
-### 💬 Open to
-
-- 💼 Software Engineering Internship Opportunities (Summer 2026)
-- 🤝 Collaboration on Open Source Projects
-- 💡 Interesting Technical Discussions
-- 🎓 Mentoring & Knowledge Sharing
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/preranale/preranale/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
 
-### ⚡ Fun Fact
+## 😂 Random Dev Meme
+
+<div align="center">
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
 ```python
 while True:
     if coffee_level > 0:
@@ -348,16 +348,16 @@ while True:
         refill_coffee()
 ```
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
 </div>
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 **✨ Thanks for visiting my profile! Have a great day! ✨**
 
-<div align="center">
-  Made with ❤️ and lots of ☕ by Prerana Nale
+<sub>Made with ❤️ and lots of ☕ by Prerana Nale</sub>
+
 </div>
