@@ -83,36 +83,6 @@ With **3+ years of professional software development experience**, I've proven t
 
 ---
 
-💡 **Fun Fact:** I teach 150+ students Java while building accessible web apps — proving that career changers can excel! 🎓
-
-🔍 **Looking For:** Summer 2026 Software Engineering Internship
-
-📫 **Let's Connect:** Open to collaborations, technical discussions, and mentoring opportunities!
-
----
-
-<div align="center">
-
-### 🏆 Quick Stats
-
-![Code Quality](https://img.shields.io/badge/Code_Coverage-90%25%2B-brightgreen?style=flat-square&logo=codecov)
-![Performance](https://img.shields.io/badge/Performance-75%25_Improvement-success?style=flat-square&logo=speedtest)
-![Accessibility](https://img.shields.io/badge/Accessibility-95%2F100-blue?style=flat-square&logo=accessible-icon)
-![Students](https://img.shields.io/badge/Students_Taught-150%2B-orange?style=flat-square&logo=googleclassroom)
-![GPA](https://img.shields.io/badge/GPA-4.00%2F4.00-red?style=flat-square&logo=academia)
-
-</div>
-
----
-
-💡 **Fun Fact:** I teach 150+ students Java while building accessible web apps! 🎓
-
-🔍 **Looking For:** Summer 2026 Software Engineering Internship
-
-📫 **Let's Connect:** Open to collaborations, technical discussions, and mentoring opportunities!
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
