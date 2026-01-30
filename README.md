@@ -16,19 +16,66 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** pursuing my Master's in Software Engineering at **Arizona State University (GPA: 4.00/4.00)**. With 3+ years of professional experience, I'm passionate about building **scalable, accessible applications** that make a real impact.
+<div align="center">
 
-Currently, I'm an **Instructional Assistant at ASU**, teaching 150+ students Java programming while building production-ready projects. I specialize in **full-stack development**, **cloud architecture**, and **web accessibility**.
+### 💫 Full-Stack Software Engineer | Cloud Architect | Accessibility Champion
 
-**🎯 What I Do:**
-- Build full-stack applications using React, TypeScript, Python, and Java
-- Design secure cloud infrastructure on AWS with Terraform
-- Create accessible web experiences (WCAG 2.1 AA compliant)
-- Teach and mentor the next generation of developers
+</div>
 
-**💡 Fun Fact:** I teach 150+ students Java while building accessible web apps! 🎓
+I'm a **Full-Stack Software Engineer** pursuing my **Master's in Software Engineering** at **Arizona State University (GPA: 4.00/4.00)**. With **3+ years of professional experience**, I'm passionate about building **scalable, accessible applications** that make a real impact.
 
-**🔍 Looking For:** Summer 2026 Software Engineering Internship
+Currently, I'm an **Instructional Assistant at ASU**, teaching **150+ students** Java programming while building production-ready projects. I specialize in **full-stack development**, **cloud architecture**, and **web accessibility**.
+
+---
+
+<div align="center">
+
+### 🎯 What I Do
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 💻 **Development**
+- 🚀 Build full-stack applications using **React**, **TypeScript**, **Python**, and **Java**
+- 🎨 Create **accessible web experiences** (WCAG 2.1 AA compliant)
+- ⚡ Optimize performance (achieved **75% improvement**)
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ **Cloud & DevOps**
+- 🏗️ Design secure **cloud infrastructure** on **AWS** with **Terraform**
+- 🔐 Implement **CI/CD pipelines** (reduced deployment time by **60%**)
+- 📊 Build monitoring and alerting systems
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🏆 Quick Stats
+
+![Code Quality](https://img.shields.io/badge/Code_Coverage-90%25%2B-brightgreen?style=flat-square&logo=codecov)
+![Performance](https://img.shields.io/badge/Performance-75%25_Improvement-success?style=flat-square&logo=speedtest)
+![Accessibility](https://img.shields.io/badge/Accessibility-95%2F100-blue?style=flat-square&logo=accessible-icon)
+![Students](https://img.shields.io/badge/Students_Taught-150%2B-orange?style=flat-square&logo=googleclassroom)
+![GPA](https://img.shields.io/badge/GPA-4.00%2F4.00-red?style=flat-square&logo=academia)
+
+</div>
+
+---
+
+💡 **Fun Fact:** I teach 150+ students Java while building accessible web apps! 🎓
+
+🔍 **Looking For:** Summer 2026 Software Engineering Internship
+
+📫 **Let's Connect:** Open to collaborations, technical discussions, and mentoring opportunities!
 
 ---
 
