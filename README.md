@@ -311,16 +311,6 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 
 ---
 
-## 😂 Random Dev Meme
-
-<div align="center">
-
-<img src="https://random-memer.herokuapp.com/" width="512px" alt="Random Dev Meme"/>
-
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 <div align="center">
