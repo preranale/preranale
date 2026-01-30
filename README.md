@@ -74,7 +74,7 @@ const prerana = {
 
 [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-success-brightgreen?style=for-the-badge&logo=netlify)](https://orange-sulphure.netlify.app/)
 [![Success](https://img.shields.io/badge/SUCCESS-95%2F100-brightgreen?style=for-the-badge)](https://orange-sulphure.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/preranale)
+[![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github)](https://github.com/preranale)
 
 **Production e-commerce platform achieving 95/100 accessibility score (top 2% globally)**
 
@@ -174,13 +174,18 @@ const prerana = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=preranale&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=preranale&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<a href="https://github.com/preranale">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=preranale&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranale&layout=compact&langs_count=7&theme=radical"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranale&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preranale&theme=radical&utcOffset=-7" alt="Productive Time" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preranale&theme=radical)](https://github.com/preranale)
+
 </div>
 
 ---
@@ -188,7 +193,9 @@ const prerana = {
 ## 📈 Prerana's Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preranale&theme=react-dark&hide_border=true&area=true" alt="Prerana's Contribution Graph" />
+  
+[![Prerana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=preranale&theme=react-dark&hide_border=true&area=true)](https://github.com/preranale)
+
 </div>
 
 ---
@@ -229,13 +236,15 @@ Master of Science in Software Engineering | **GPA: 4.00/4.00** | Expected May 20
 <div align="center">
 
 ### 📄 Secure Deployment Pipeline for LLM-based Agents (CI/CD)
+
 **CSE 543: Information Assurance and Security** | November 2025
 
 Co-authored comprehensive research on MLSecOps framework for secure LLM deployment
-- ✅ Zero secret leakage validation
-- ✅ Sub-250ms API latency
-- ✅ Statistical significance (p < 0.01)
-- ✅ Production-ready architecture
+
+✅ Zero secret leakage validation  
+✅ Sub-250ms API latency  
+✅ Statistical significance (p < 0.01)  
+✅ Production-ready architecture
 
 </div>
 
@@ -244,11 +253,11 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🎤 Building Accessible Web Apps: Voice Commands with Web Speech API
-- ☁️ Deploying Microservices on AWS EKS: A Complete Guide
-- 🔒 Securing Your CI/CD Pipeline: Best Practices & Tools
-- ⚡ Performance Optimization: From 8 Hours to 2 Hours
-- 🧪 Achieving 90%+ Test Coverage: A Practical Approach
+🎤 Building Accessible Web Apps: Voice Commands with Web Speech API  
+☁️ Deploying Microservices on AWS EKS: A Complete Guide  
+🔒 Securing Your CI/CD Pipeline: Best Practices & Tools  
+⚡ Performance Optimization: From 8 Hours to 2 Hours  
+🧪 Achieving 90%+ Test Coverage: A Practical Approach
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -266,10 +275,10 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 
 ### 💬 Open to
 
-- 💼 **Software Engineering Internship Opportunities** (Summer 2026)
-- 🤝 **Collaboration on Open Source Projects**
-- 💡 **Interesting Technical Discussions**
-- 🎓 **Mentoring & Knowledge Sharing**
+💼 Software Engineering Internship Opportunities (Summer 2026)  
+🤝 Collaboration on Open Source Projects  
+💡 Interesting Technical Discussions  
+🎓 Mentoring & Knowledge Sharing
 
 </div>
 
@@ -277,41 +286,18 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 
 ## 🎯 2026 Goals
 
-- ✅ Complete MS in Software Engineering (GPA: 4.00)
-- 🎯 Land Software Engineering Internship at Top Tech Company
-- 🎯 Contribute to 5+ Open Source Projects
-- 🎯 Build 3 Production-Grade Full-Stack Applications
-- 🎯 Master Kubernetes & System Design
-- 🎯 Achieve AWS Solutions Architect Certification
-- 🎯 Publish Technical Blog Posts (10+)
+✅ Complete MS in Software Engineering (GPA: 4.00)  
+🎯 Land Software Engineering Internship at Top Tech Company  
+🎯 Contribute to 5+ Open Source Projects  
+🎯 Build 3 Production-Grade Full-Stack Applications  
+🎯 Master Kubernetes & System Design  
+🎯 Achieve AWS Solutions Architect Certification  
+🎯 Publish Technical Blog Posts (10+)
+
 
 ---
 
 ## 🌱 Currently Learning
-
-<div align="center">
-```mermaid
-mindmap
-  root((Learning))
-    Kubernetes
-      Container Orchestration
-      Helm Charts
-      Service Mesh
-    System Design
-      Scalability Patterns
-      Microservices
-      Event-Driven Architecture
-    Advanced AWS
-      Lambda Functions
-      EKS
-      CloudFormation
-    Machine Learning
-      TensorFlow
-      Model Deployment
-      MLOps
-```
-
-</div>
 
 ---
 
@@ -329,7 +315,7 @@ mindmap
 
 <div align="center">
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+<img src="https://random-memer.herokuapp.com/" width="512px" alt="Random Dev Meme"/>
 
 </div>
 
@@ -361,3 +347,7 @@ while True:
 <sub>Made with ❤️ and lots of ☕ by Prerana Nale</sub>
 
 </div>
+
+---
+
+## 🌱 Currently Learning
