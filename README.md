@@ -18,9 +18,13 @@
 
 <div align="center">
 
-I'm a **Full-Stack Software Engineer** pursuing my **Master's in Software Engineering** at **Arizona State University (GPA: 4.00/4.00)**. With **3+ years of professional experience**, I'm passionate about building **scalable, accessible applications** that make a real impact.
+### 💫 From Biotechnology to Software Engineering | Full-Stack Developer | Cloud Architect
 
-Currently, I'm an **Instructional Assistant at ASU**, teaching **150+ students** Java programming while building production-ready projects. I specialize in **full-stack development**, **cloud architecture**, and **web accessibility**.
+</div>
+
+I'm a **Full-Stack Software Engineer** with a unique journey — I started with a **B.Tech in Biotechnology** and discovered my passion for **software development**. Now pursuing my **Master's in Software Engineering at Arizona State University (GPA: 4.00/4.00)**, I bring a **unique problem-solving perspective** combining analytical thinking from life sciences with technical expertise in software engineering.
+
+With **3+ years of professional software development experience**, I've proven that career transitions can lead to excellence. Currently, I'm an **Instructional Assistant at ASU**, teaching **150+ students** Java programming while building production-ready projects. I specialize in **full-stack development**, **cloud architecture**, and **web accessibility**.
 
 ---
 
@@ -38,6 +42,7 @@ Currently, I'm an **Instructional Assistant at ASU**, teaching **150+ students**
 - 🚀 Build full-stack applications using **React**, **TypeScript**, **Python**, and **Java**
 - 🎨 Create **accessible web experiences** (WCAG 2.1 AA compliant)
 - ⚡ Optimize performance (achieved **75% improvement**)
+- 🧪 Apply scientific rigor to code quality (**90%+ test coverage**)
 
 </td>
 <td width="50%" valign="top">
@@ -46,10 +51,43 @@ Currently, I'm an **Instructional Assistant at ASU**, teaching **150+ students**
 - 🏗️ Design secure **cloud infrastructure** on **AWS** with **Terraform**
 - 🔐 Implement **CI/CD pipelines** (reduced deployment time by **60%**)
 - 📊 Build monitoring and alerting systems
+- 🔬 Research-driven approach to **MLSecOps**
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+### 🏆 Quick Stats
+
+![Code Quality](https://img.shields.io/badge/Code_Coverage-90%25%2B-brightgreen?style=flat-square&logo=codecov)
+![Performance](https://img.shields.io/badge/Performance-75%25_Improvement-success?style=flat-square&logo=speedtest)
+![Accessibility](https://img.shields.io/badge/Accessibility-95%2F100-blue?style=flat-square&logo=accessible-icon)
+![Students](https://img.shields.io/badge/Students_Taught-150%2B-orange?style=flat-square&logo=googleclassroom)
+![GPA](https://img.shields.io/badge/GPA-4.00%2F4.00-red?style=flat-square&logo=academia)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 My Unique Perspective
+
+**Biotech → Software Engineering:** My background in biotechnology gives me a unique analytical approach to software development. I apply the same rigor used in scientific research to building robust, well-tested applications.
+
+</div>
+
+---
+
+💡 **Fun Fact:** I teach 150+ students Java while building accessible web apps — proving that career changers can excel! 🎓
+
+🔍 **Looking For:** Summer 2026 Software Engineering Internship
+
+📫 **Let's Connect:** Open to collaborations, technical discussions, and mentoring opportunities!
 
 ---
 
