@@ -18,10 +18,6 @@
 
 <div align="center">
 
-### 💫 Full-Stack Software Engineer | Cloud Architect | Accessibility Champion
-
-</div>
-
 I'm a **Full-Stack Software Engineer** pursuing my **Master's in Software Engineering** at **Arizona State University (GPA: 4.00/4.00)**. With **3+ years of professional experience**, I'm passionate about building **scalable, accessible applications** that make a real impact.
 
 Currently, I'm an **Instructional Assistant at ASU**, teaching **150+ students** Java programming while building production-ready projects. I specialize in **full-stack development**, **cloud architecture**, and **web accessibility**.
