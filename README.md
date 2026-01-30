@@ -284,12 +284,11 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 </div>
 
 ---
-```markdown
+
 ## ⚡ Fun Fact
 
 <div align="center">
-
-\`\`\`python
+```python
 while True:
     if coffee_level > 0:
         write_code()
@@ -297,10 +296,10 @@ while True:
         build_awesome_stuff()
     else:
         refill_coffee()
-\`\`\`
+```
 
 </div>
-```
+
 ---
 
 <div align="center">
