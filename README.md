@@ -15,54 +15,20 @@
 ---
 
 ## 🧑‍💻 About Me
-```javascript
-const prerana = {
-    location: "Phoenix, Arizona 🌵",
-    education: "MS in Software Engineering @ ASU (GPA: 4.00/4.00)",
-    currentRole: "Instructional Assistant @ ASU",
-    previousRole: "Full-Stack Developer @ 4 Systems Info Solutions",
-    interests: ["Web Accessibility", "Cloud Architecture", "Full-Stack Development"],
-    funFact: "I teach 150+ students Java while building accessible web apps! 🎓",
-    lookingFor: "Summer 2026 Software Engineering Internship",
-    
-    code: ["Python", "JavaScript", "TypeScript", "Java", "SQL"],
-    askMeAbout: ["Web Development", "Cloud Computing", "Accessibility", "DevOps"],
-    
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Redux Toolkit", "Next.js"],
-            styling: ["Tailwind CSS", "CSS3", "Styled Components"],
-            accessibility: ["ARIA", "WCAG 2.1", "Web Speech API"]
-        },
-        backEnd: {
-            languages: ["Python", "Java", "Node.js"],
-            frameworks: ["Spring Boot", "FastAPI", "Express"],
-            apis: ["RESTful", "GraphQL"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        cloud: {
-            aws: ["EC2", "S3", "RDS", "Lambda", "CloudWatch", "IAM", "KMS"],
-            other: ["Azure", "Netlify", "Vercel"]
-        },
-        devOps: {
-            containerization: ["Docker", "Docker Compose"],
-            orchestration: ["Kubernetes", "ECS"],
-            cicd: ["GitHub Actions", "Jenkins"],
-            iac: ["Terraform", "CloudFormation"]
-        },
-        tools: ["Git", "VS Code", "Postman", "Jira"]
-    },
-    
-    architecture: ["Microservices", "Event-Driven", "RESTful APIs", "Serverless"],
-    
-    achievements: {
-        accessibility: "95/100 score (Top 2% globally) 🏆",
-        performance: "75% improvement in data processing ⚡",
-        testing: "90%+ test coverage 🧪",
-        deployment: "60% reduction in deployment time 🚀"
-    }
-};
-```
+
+I'm a **Full-Stack Software Engineer** pursuing my Master's in Software Engineering at **Arizona State University (GPA: 4.00/4.00)**. With 3+ years of professional experience, I'm passionate about building **scalable, accessible applications** that make a real impact.
+
+Currently, I'm an **Instructional Assistant at ASU**, teaching 150+ students Java programming while building production-ready projects. I specialize in **full-stack development**, **cloud architecture**, and **web accessibility**.
+
+**🎯 What I Do:**
+- Build full-stack applications using React, TypeScript, Python, and Java
+- Design secure cloud infrastructure on AWS with Terraform
+- Create accessible web experiences (WCAG 2.1 AA compliant)
+- Teach and mentor the next generation of developers
+
+**💡 Fun Fact:** I teach 150+ students Java while building accessible web apps! 🎓
+
+**🔍 Looking For:** Summer 2026 Software Engineering Internship
 
 ---
 
@@ -294,10 +260,18 @@ Co-authored comprehensive research on MLSecOps framework for secure LLM deployme
 🎯 Achieve AWS Solutions Architect Certification  
 🎯 Publish Technical Blog Posts (10+)
 
-
 ---
 
 ## 🌱 Currently Learning
+
+<div align="center">
+
+**Kubernetes** • Container Orchestration • Helm Charts • Service Mesh  
+**System Design** • Scalability Patterns • Microservices • Event-Driven Architecture  
+**Advanced AWS** • Lambda Functions • EKS • CloudFormation  
+**Machine Learning** • TensorFlow • Model Deployment • MLOps
+
+</div>
 
 ---
 
@@ -337,7 +311,3 @@ while True:
 <sub>Made with ❤️ and lots of ☕ by Prerana Nale</sub>
 
 </div>
-
----
-
-## 🌱 Currently Learning
