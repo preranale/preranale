@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-nale)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naleprerana11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://orange-sulphure.netlify.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=preranale&color=blueviolet&style=flat-square)](https://github.com/preranale)
 
 </div>
@@ -29,14 +30,19 @@ I'm pursuing my **Master's in Software Engineering at Arizona State University (
 ---
 
 ## 🛠️ Tech Stack
-```text
-Languages      Python • JavaScript • TypeScript • Java • SQL
-Frontend       React • Redux • Next.js • TailwindCSS • HTML/CSS
-Backend        Spring Boot • Node.js • FastAPI • Flask • Express
-Cloud/DevOps   AWS • Azure • Docker • Kubernetes • Terraform • Jenkins
-Databases      PostgreSQL • MongoDB • MySQL • Redis
-Tools          Git • VS Code • Postman • Jira
-```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -47,6 +53,7 @@ Tools          Git • VS Code • Postman • Jira
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **95/100 accessibility score (top 2% globally)** | Production-ready e-commerce platform
 
@@ -65,6 +72,7 @@ Tools          Git • VS Code • Postman • Jira
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Enterprise-grade MLSecOps framework** | Co-authored Research Paper (CSE 543, Nov 2025)
 
@@ -82,6 +90,7 @@ Tools          Git • VS Code • Postman • Jira
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Multi-cloud infrastructure automation toolkit**
 
@@ -96,14 +105,20 @@ Tools          Git • VS Code • Postman • Jira
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=preranale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranale&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=preranale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preranale&theme=tokyonight&hide_border=true)](https://github.com/preranale)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=preranale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=preranale&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -111,21 +126,25 @@ Tools          Git • VS Code • Postman • Jira
 
 ## 🌟 Achievements
 
+<div align="center">
+
 | Metric | Achievement |
 |--------|-------------|
-| 💻 Code Quality | 90%+ Test Coverage |
-| ⚡ Performance | 75% Processing Improvement |
-| ♿ Accessibility | 95/100 Score (Top 2%) |
-| 🚀 CI/CD | 60% Faster Deployments |
-| 👥 Teaching | 150+ Students Mentored |
-| 🏆 GPA | 4.00/4.00 @ ASU |
-| 📄 Research | Published Paper (CSE 543) |
+| 💻 **Code Quality** | 90%+ Test Coverage |
+| ⚡ **Performance** | 75% Processing Improvement |
+| ♿ **Accessibility** | 95/100 Score (Top 2%) |
+| 🚀 **CI/CD** | 60% Faster Deployments |
+| 👥 **Teaching** | 150+ Students Mentored |
+| 🏆 **GPA** | 4.00/4.00 @ ASU |
+| 📄 **Research** | Published Paper (CSE 543) |
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-**Arizona State University** | Tempe, AZ  
+**🎓 Arizona State University** | Tempe, AZ  
 Master of Science in Software Engineering | **GPA: 4.00/4.00** | Expected May 2026
 
 **Relevant Coursework:** Advanced Web Development • Data Structures & Algorithms • Software Design Patterns • Cloud Computing • Information Assurance & Security
@@ -134,9 +153,21 @@ Master of Science in Software Engineering | **GPA: 4.00/4.00** | Expected May 20
 
 ## 💡 What Makes Me Different
 
-**Biotech → Software Engineering Journey**
+**Biotech → Software Engineering Journey** 🧬 → 💻
 
-My background in biotechnology gives me a unique analytical approach to software development. I apply the same scientific rigor used in research to building robust, well-tested applications. This cross-domain perspective helps me tackle complex problems creatively.
+My background in **biotechnology** gives me a unique analytical approach to software development. I apply the same **scientific rigor** used in research to building robust, well-tested applications. This cross-domain perspective helps me:
+
+- 🔬 Apply systematic testing methodologies (achieving 90%+ coverage)
+- 📊 Use data-driven decision making in architecture choices
+- 🧪 Design experiments to validate performance optimizations
+- 🔍 Approach debugging with scientific problem-solving methods
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -156,6 +187,8 @@ I'm always open to interesting conversations, collaboration opportunities, and S
 
 <div align="center">
 
-💼 Open to Summer 2026 Software Engineering Internships | 🤝 Let's build something amazing together!
+### 💼 Open to Summer 2026 Software Engineering Internships
+
+**Let's build something amazing together!** 🚀
 
 </div>
