@@ -1,159 +1,58 @@
-<div align="center">
+# Prerana Nale
 
-# 👋 Hi, I'm Prerana Nale
+Software Engineer · MS Software Engineering @ Arizona State University (GPA 4.0)  
+3 years full-stack development · focused on ML systems, AI pipelines, and accessible software
 
-### Full-Stack Software Engineer | MS @ ASU | Biotech → Software 🧬💻
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-nale)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naleprerana11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://orange-sulphure.netlify.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=preranale&color=blueviolet&style=flat-square)](https://github.com/preranale)
-
-</div>
+[LinkedIn](https://linkedin.com/in/prerana-nale) · [Email](mailto:naleprerana11@gmail.com) · [Resume](https://github.com/preranale/preranale/raw/main/resume.pdf)
 
 ---
 
-## 🚀 About Me
+## Work
 
-I'm pursuing my **Master's in Software Engineering at Arizona State University (GPA: 4.00/4.00)** with a unique background in **Biotechnology**. I bring analytical thinking from life sciences to building scalable, accessible applications and secure cloud infrastructure.
+**Instructional Assistant** — Arizona State University · Aug 2025 – Dec 2025  
+Java programming labs for 150+ students. Code reviews, curriculum development.
 
-**Currently:**
-- 💻 Building accessible web applications & MLSecOps frameworks
-- 👨‍🏫 Teaching 150+ students Java programming as Instructional Assistant @ ASU
-- 🔬 Applying scientific rigor to software development (90%+ test coverage)
-- 📚 Learning Kubernetes, System Design, and MLOps
-
-**Experience:** 3+ years as Full-Stack Developer @ 4 Systems Info Solutions
-
-**Looking for:** Summer 2026 Software Engineering Internships
+**Full-Stack Developer** — 4 Systems Info Solutions · Aug 2021 – Jan 2024  
+Python, Java, Spring Boot, React. 75% performance improvement on core data pipeline. 60% faster deployments via CI/CD.
 
 ---
 
-## 🛠️ Tech Stack
-```text
-Languages      Python • JavaScript • TypeScript • Java • SQL
-Frontend       React • Redux • Next.js • TailwindCSS • HTML/CSS
-Backend        Spring Boot • Node.js • FastAPI • Flask • Express
-Cloud/DevOps   AWS • Azure • Docker • Kubernetes • Terraform • Jenkins
-Databases      PostgreSQL • MongoDB • MySQL • Redis
-Tools          Git • VS Code • Postman • Jira
-```
+## Projects
+
+**[Data Flywheel Pipeline](https://github.com/preranale/data-flywheel)**  
+Self-improving ML recommendation system. 7 microservices orchestrated with Docker Compose. SVD matrix factorisation on 100k MovieLens ratings — RMSE 0.947, 100% coverage. Model retrains automatically when 50+ user feedback events accumulate via Redis Streams. All runs versioned in MLflow.  
+`FastAPI` `Redis Streams` `SVD` `MLflow` `React` `Docker Compose` `Python`
+
+**[MedCareBot](https://github.com/meducational/ser517-industry-project-group-12-spring-2026)**  
+RAG pipeline over 83,843 FDA drug records using ChromaDB vector search and OpenAI GPT-4o-mini. AWS Cognito auth, LLM-generated knowledge checks, PostgreSQL chat history. 136 tests across 5 Agile sprints.  
+`Django` `React` `ChromaDB` `OpenAI` `AWS Cognito` `PostgreSQL`
+
+**[Orange Sulphur](https://github.com/saalsai1/SER598-Group2-ma-)** · [Live](https://orange-sulphure.netlify.app)  
+Accessible e-commerce platform. 95/100 Lighthouse score — top 2% globally. WCAG 2.1 AA compliant. Voice navigation via Web Speech API, ARIA live regions, colorblind modes.  
+`React 19` `TypeScript` `Redux Toolkit` `Tailwind CSS`
+
+**[Mnemo](https://github.com/preranale/mnemo)** *(in progress)*  
+Personal AI assistant solving three core GenAI limitations — persistent memory, RAG grounding, and hallucination detection. ChromaDB stores user memories across sessions. LangGraph orchestrates memory retrieval, document search, LLM generation, and fact verification in a single workflow.  
+`FastAPI` `LangGraph` `ChromaDB` `Claude API` `React` `PostgreSQL`
 
 ---
 
-## 🎯 Featured Projects
+## Stack
 
-### 🍊 [Orange Sulphur - Accessible E-Commerce Platform](https://orange-sulphure.netlify.app/)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**95/100 accessibility score (top 2% globally)** | Production-ready e-commerce platform
-
-- 🎤 Voice commands with Web Speech API for hands-free shopping
-- 👁️ Full screen reader optimization (ARIA compliant)
-- 🎨 Colorblind modes (Protanopia, Deuteranopia, Tritanopia)
-- ♿ WCAG 2.1 AA compliance throughout
-
-**[Live Demo →](https://orange-sulphure.netlify.app/)**
+**Languages** — Python, TypeScript, JavaScript, Java, SQL, Golang  
+**Frontend** — React, Redux Toolkit, Tailwind CSS, Vite  
+**Backend** — FastAPI, Spring Boot, Node.js, Django, Flask  
+**AI / ML** — LangGraph, ChromaDB, MLflow, OpenAI API, SVD, RAG pipelines  
+**Cloud** — AWS (EC2, S3, RDS, IAM, KMS, Cognito), Docker, Docker Compose, Terraform  
+**Databases** — PostgreSQL, MySQL, MongoDB, Redis  
 
 ---
 
-### 🔒 Secure Deployment Pipeline for LLM Agents
+## Education
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Enterprise-grade MLSecOps framework** | Co-authored Research Paper (CSE 543, Nov 2025)
-
-- 🛡️ Zero secret leakage across 342 production queries
-- ⚡ Sub-250ms API latency with only 8.5% pipeline overhead
-- 🔍 >95% vulnerability resolution rate with automated SAST
-- 📊 Statistical validation (p < 0.01) proving production readiness
-
-**Published:** Comprehensive threat model & AWS reference architecture
+**Arizona State University** — MS Software Engineering · GPA 4.0 · Expected May 2026  
+**Dr. D. Y. Patil Biotechnology and Bioinformatics Institute** — B.Tech Biotechnology · GPA 3.75
 
 ---
 
-### ⚙️ Cloud Infrastructure Automation & SRE Tools
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-**Multi-cloud infrastructure automation toolkit**
-
-- 🔧 Automated provisioning for VPC, EC2, S3, RDS
-- 📈 SRE monitoring with alerting & log aggregation
-- 💰 Cost optimization strategies
-- 🔄 80% reduction in manual provisioning time
-
----
-
-## 🌟 Achievements
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| 💻 **Code Quality** | 90%+ Test Coverage |
-| ⚡ **Performance** | 75% Processing Improvement |
-| ♿ **Accessibility** | 95/100 Score (Top 2%) |
-| 🚀 **CI/CD** | 60% Faster Deployments |
-| 👥 **Teaching** | 150+ Students Mentored |
-| 🏆 **GPA** | 4.00/4.00 @ ASU |
-| 📄 **Research** | Published Paper (CSE 543) |
-
-</div>
-
----
-
-## 🎓 Education
-
-**🎓 Arizona State University** | Tempe, AZ  
-Master of Science in Software Engineering | **GPA: 4.00/4.00** | Expected May 2026
-
-**Relevant Coursework:** Advanced Web Development • Data Structures & Algorithms • Software Design Patterns • Cloud Computing • Information Assurance & Security
-
----
-
-## 💡 What Makes Me Different
-
-**Biotech → Software Engineering Journey** 🧬 → 💻
-
-My background in **biotechnology** gives me a unique analytical approach to software development. I apply the same **scientific rigor** used in research to building robust, well-tested applications. This cross-domain perspective helps me:
-
-- 🔬 Apply systematic testing methodologies (achieving 90%+ coverage)
-- 📊 Use data-driven decision making in architecture choices
-- 🧪 Design experiments to validate performance optimizations
-- 🔍 Approach debugging with scientific problem-solving methods
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations, collaboration opportunities, and Summer 2026 internship positions!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-nale)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naleprerana11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://orange-sulphure.netlify.app/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Open to Summer 2026 Software Engineering Internships
-
-**Let's build something amazing together!** 🚀
-
-</div>
+*Open to full-time software engineering roles starting May 2026.*
